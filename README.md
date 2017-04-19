@@ -4,7 +4,7 @@ skripsi adalah project untuk tugas akhir kuliah di kampus uin malang, untuk lebi
 ## How to run
   * open terminal
   * go to root dir project
-  * type this command
+  * type bellow command
               
          bin/console server:run
   * Enjoy !
