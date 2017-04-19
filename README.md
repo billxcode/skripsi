@@ -1,4 +1,2 @@
-skripsi.dev
-===========
-
-A Symfony project created on April 19, 2017, 11:47 pm.
+# skripsi
+skripsi adalah project untuk tugas akhir kuliah di kampus uin malang, untuk lebih jelasnya buka'en skripsiku yo rek. wocoen dewe
